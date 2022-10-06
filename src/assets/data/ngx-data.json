@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Cortez",
+        "title": "Gaines",
+        "company": "male",
+        "phone": "423 Bay Parkway",
+        "mobile":"23423423",
+        "email": "email@com",
+        "leadstatus": "well",
+        "owner": "email@com"
+    },
+    {
+        "name": "Reba",
+        "title": "Bowen",
+        "company": "female",
+        "phone": "663 Hale Avenue",
+        "mobile":"23423423",
+        "email": "Email@com",
+        "leadstatus": "good",
+        "owner": "Reba"
+
+    },
+    {
+        "name": "Rebahgj",
+        "title": "Bowenhk",
+        "company": "femalejk",
+        "phone": " Avenue",
+        "mobile":"23423980423",
+        "email": "Email@com",
+        "leadstatus": "on lead",
+        "owner": "Rebahgj"
+
+    },
+    {
+        "name": "Rebahgj",
+        "title": "Bowenhk",
+        "company": "femalejk",
+        "phone": " Avenue",
+        "mobile":"23423980423",
+        "email": "Email@com",
+        "leadstatus": "on lead",
+        "owner": "Rebahgj"
+
+    }
+    
+ 
+]

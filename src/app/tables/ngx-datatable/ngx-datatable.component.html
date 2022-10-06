@@ -1,0 +1,46 @@
+
+
+    <br>
+  
+
+    <div class="row clearfix">
+      <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="card">
+          <div class="header">
+           
+            <div class="materialTableHeader bg-transparent">
+            
+            <div class="row">
+              <div class="col-12">
+                  <ul class="header-buttons-left ml-0">
+                      <li class="dropdown">
+                           <h2><strong>Uygoman</strong> Leads</h2>
+                        </li>
+                        <li class="dropdown m-l-20 ">
+                          <label for="search-input"><i class="material-icons search-icon">search</i></label>
+                          <input placeholder="Search" matInput (keyup)='tb2filterDatatable($event)'  class="browser-default search-field"
+                            aria-label="Search box">
+                        </li>
+                  </ul>
+
+              </div>
+            </div>
+
+          </div>
+        
+            
+
+          </div>
+          <div class="body">
+            <div class="row">
+              <div class="col-sm-12">
+                
+                <ngx-datatable #table2 class="material" [rows]="tb2data" [columns]="tb2columns" [sortType]="'multi'"
+                  [columnMode]="'force'" [headerHeight]="50" [footerHeight]="50" [rowHeight]="'auto'" [limit]="2">
+                </ngx-datatable>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>

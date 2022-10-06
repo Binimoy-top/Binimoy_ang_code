@@ -1,0 +1,60 @@
+.dearn {
+    color: #e0dfdc;
+    background: #556677;
+    letter-spacing: .1em;
+    text-shadow: 0 -1px 0 #fff, 0 1px 0 #2e2e2e, 0 2px 0 #2c2c2c, 0 3px 0 #2a2a2a, 0 4px 0 #282828, 0 5px 0 #262626, 0 6px 0 #242424, 0 7px 0 #222, 0 8px 0 #202020, 0 9px 0 #1e1e1e, 0 10px 0 #1c1c1c, 0 11px 0 #1a1a1a, 0 12px 0 #181818, 0 13px 0 #161616, 0 14px 0 #141414, 0 15px 0 #121212, 0 22px 30px rgba(0, 0, 0, 0.9);
+    color: #e0dfdc;
+    background: #556677;
+    text-align: center;
+    padding-bottom: 5vw;
+    font-size: 5vw;
+  
+    a {
+      color: rgb(126, 128, 0);
+      text-decoration: none;
+  
+      &:hover {
+        border: #ecb27c 1vw solid;
+        border-radius: 20%;
+        padding: 0 3vw 3vw 3vw;
+        color: green;
+        background: #6d1179;
+      }
+    }
+  }
+  
+  .pcolorwhite {
+    color: white;
+  }
+  
+  .binimoy {
+    padding-top: 20px;
+    background-image: linear-gradient(to left, rgb(134, 68, 15), green, rgb(201, 201, 10), rgb(54, 183, 243));
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  
+  .binimoy2 {
+    padding-top: 20px;
+    color: #6d1179;
+  }
+  
+  .container-nav {
+    background: rgb(241, 226, 8);
+    padding-bottom: 20px;
+  }
+  
+  .bongabdo, .idtime {
+    display: inline;
+  }
+  
+  .color_active {
+    color: rgb(168, 36, 36);
+  }
+  
+  .firstbox {
+    padding: 12 12 12 12;
+    background-color: green;
+  }
